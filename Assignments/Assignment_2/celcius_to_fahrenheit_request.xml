@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<soap:Envelope 
+	xmlns:soap="http://www.w3.org/2003/05/soap-envelope/" 
+	soap:encodingStyle="http://www.w3.org/2003/05/soap-encoding" >
+
+	<soap:Header>
+		...
+	</soap:Header>
+
+	<soap:Body xmlns:conv="http://thewebsite.com/convert" >
+		<conv:celciusToFahrenheit>
+			<conv:celcius>10</conv:celcius>
+		</conv:celciusToFahrenheit>
+	  
+	</soap:Body>
+
+</soap:Envelope> 

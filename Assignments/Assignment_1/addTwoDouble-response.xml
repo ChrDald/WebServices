@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- not sure why its returning so many digits -->
+<methodResponse>
+	<params>
+		<param>
+			<value><double>-28.5356819999999942183421808294951915740966796875</double></value>
+		</param>
+	</params>
+</methodResponse>

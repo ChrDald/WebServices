@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- not sure why its returning so many digits -->
+<methodResponse>
+	<params>
+		<param>
+			<value><string>Steph Moreau</string></value>
+		</param>
+	</params>
+</methodResponse>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<methodCall>
+	<methodName>jac.addTwo</methodName>
+	<params>
+		<param><value><int>2</int></value></param>
+		<param><value><int>2</int></value></param>
+	</params>
+</methodCall>

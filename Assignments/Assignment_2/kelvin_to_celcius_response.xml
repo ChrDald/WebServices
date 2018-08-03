@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<soap:Envelope 
+	xmlns:soap="http://www.w3.org/2003/05/soap-envelope/" 
+	soap:encodingStyle="http://www.w3.org/2003/05/soap-encoding" >
+
+	<soap:Header>
+		<!-- placeholder -->
+	</soap:Header>
+
+	<soap:Body xmlns:conv="http://thewebsite.com/convert" >
+		<conv:kelvinToCelciusResponse>
+			<conv:celciusValue>-263.15</conv:celciusValue>
+		</conv:kelvinToCelciusResponse>
+	  <soap:Fault>
+		<!-- placeholder -->
+	  </soap:Fault>
+	  
+	</soap:Body>
+
+</soap:Envelope> 
