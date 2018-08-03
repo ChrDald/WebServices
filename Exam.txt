@@ -1,0 +1,5 @@
+pre defined roles of soap
+soap fault codes
+root elements and direct children of soap request/response and wsdl
+everything in wsdl, like the pages
+write soap request/response by hand.
